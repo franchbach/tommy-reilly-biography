@@ -12,7 +12,7 @@ by franchbach
 
 March 25, 2026  Unfinished Version
 
-![img_008.jpeg](assets/img_008.jpeg)
+![img_008.jpeg](../zh/assets/img_008.jpeg)
 
 Tommy Reilly
 
@@ -28,7 +28,6 @@ Tommy Reilly's name, for classical music aficionados, represents the pinnacle of
 
 The harmonica, as a portable free-reed instrument, has been systematically excluded from the orthodox halls of classical music since its invention in the early 19th century. Its origins in popular culture, relatively low manufacturing cost, and widespread use in folk and pop music have led to its systematic neglect in the realm of serious music. In the first half of the 20th century, although the harmonica found a place in the North American blues tradition and European light music, the classical music establishment generally regarded it as a "toy instrument" or "street performer's tool," refusing to acknowledge its potential as a solo instrument. This bias was not only evident in the absence of the harmonica in orchestral arrangements but also reflected in the curriculum of music academies, composers' willingness to write for it, and the evaluation system of music critics. Harmonica players were often confined to specific musical style frameworks, finding it difficult to break genre barriers and gain broader artistic recognition.
 
-![Tommy Reilly](https://upload.wikimedia.org/wikipedia/commons/5/5e/Tommy_Reilly.jpg)
 
 # Tommy Reilly: A Pioneer in Classical Harmonica
 

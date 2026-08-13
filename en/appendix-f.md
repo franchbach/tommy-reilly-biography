@@ -38,7 +38,6 @@
 - *Harmonica Concerto in E minor* by Malcolm Arnold
 - *Fantasy for Harmonica and Orchestra* by Gordon Jacob
 
-![Tommy Reilly](https://example.com/tommy_reilly.jpg)
 
 > "Tommy Reilly's ability to blend with any orchestra was unparalleled. His performances were always a highlight of the season." - Leonard Bernstein
 

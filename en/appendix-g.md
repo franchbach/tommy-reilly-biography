@@ -30,7 +30,6 @@ This chapter serves as a supplementary appendix. It compiles historical uncertai
 
 ## G.4 The Composition Years of *Serenade* and *Valsentino*
 
-![Tommy Reilly](https://example.com/tommyreilly.jpg)
 
 | Work | Year |
 |------|----------|
