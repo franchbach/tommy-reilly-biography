@@ -1,0 +1,15 @@
+# 中间产物 / 工具脚本 (工具脚本保留在 tools/, 其余 _ 开头排除)
+_progress_*.json
+book_zh_full.md
+_convert_docx.py
+_split_chapters.py
+_postprocess.py
+_mm_translate_test.py
+_fix_remaining.py
+_fix.log
+_translate_en.log
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
