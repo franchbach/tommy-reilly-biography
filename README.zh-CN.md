@@ -1,6 +1,6 @@
 <div align="center">
 
-[**English**](README.md) | [**中文**](README.zh-CN.md)
+[**English**](README.md) | [**简体中文**](README.zh-CN.md) | [**繁體中文**](README.zh-TW.md)
 
 </div>
 
@@ -47,9 +47,10 @@ Tommy Reilly 将口琴从街头乐器提升到古典音乐独奏舞台。在他�
 
 ## PDF 下载
 
-两个 PDF 均附在 [Releases](https://github.com/franchbach/tommy-reilly-biography/releases) 页面：
+三个 PDF 均附在 [Releases](https://github.com/franchbach/tommy-reilly-biography/releases) 页面：
 
-- `A.Complete.Book.for.Tommy.Reilly.pdf` —— 中文原版
+- `A.Complete.Book.for.Tommy.Reilly.zh-Hans.pdf` —— 简体中文原版
+- `A.Complete.Book.for.Tommy.Reilly.zh-Hant.pdf` —— 繁體中文版
 - `A.Complete.Book.for.Tommy.Reilly.English.pdf` —— 英文译本（208 页）
 
 ## 状态

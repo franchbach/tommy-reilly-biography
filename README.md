@@ -1,6 +1,6 @@
 <div align="center">
 
-[**English**](README.md) | [**中文**](README.zh-CN.md)
+[**English**](README.md) | [**简体中文**](README.zh-CN.md) | [**繁體中文**](README.zh-TW.md)
 
 </div>
 
@@ -47,9 +47,10 @@ Tommy Reilly elevated the harmonica from a street instrument to the classical co
 
 ## PDF Downloads
 
-Both PDFs are attached to the [Releases](https://github.com/franchbach/tommy-reilly-biography/releases) page:
+All PDFs are attached to the [Releases](https://github.com/franchbach/tommy-reilly-biography/releases) page:
 
-- `A.Complete.Book.for.Tommy.Reilly.pdf` — Chinese original
+- `A.Complete.Book.for.Tommy.Reilly.zh-Hans.pdf` — Simplified Chinese original
+- `A.Complete.Book.for.Tommy.Reilly.zh-Hant.pdf` — Traditional Chinese version
 - `A.Complete.Book.for.Tommy.Reilly.English.pdf` — English translation (208 pages)
 
 ## Status
