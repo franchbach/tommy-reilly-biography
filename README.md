@@ -4,6 +4,10 @@
 
 汤米·赖利（Tommy Reilly, 1919–2000）——二十世纪最伟大的半音阶口琴演奏家之一。本书是他的中文传记（franchbach 著），并附机器翻译英文初稿；德文、日文译本规划中。
 
+![Tommy Reilly (1919-2000), chromatic harmonica master](zh/assets/img_008.jpeg)
+
+*Tommy Reilly（1919-2000），半音阶口琴宗师。照片为 1940-50 年代棚拍肖像，带亲笔签名。*
+
 ## About the Book / 关于本书
 
 Tommy Reilly elevated the harmonica from a street instrument to the classical concert stage. Over his six-decade career, more than thirty composers — including Gordon Jacob, Robert Farnon, James Moody and George Martin — wrote works for him. This book covers:
